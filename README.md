@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**marianaasilva/marianaasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Portugal 🌍
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 Currently working at [xgeeks](https://xgeeks.com/) as a **Software Engineer**
+- 🖤 Passionate about Python and the Django framework
+- 🌱 Focused on learning about data engineering
+- 💬 You can reach me through [LinkedIn](https://www.linkedin.com/in/marianascpereira/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div align="center">
+
+  ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianaasilva&show_icons=true&rank_icon=github&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,stars&show=prs_merged_percentage&hide_title=true)
+
+</div>
