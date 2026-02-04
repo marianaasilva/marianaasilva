@@ -6,5 +6,3 @@ I'm a Software Engineer based in Portugal 🌍
 - 🖤 Passionate about Python and the Django framework
 - 🌱 Focused on learning about data engineering
 - 💬 You can reach me through [LinkedIn](https://www.linkedin.com/in/marianascpereira/)
-
-</br>
