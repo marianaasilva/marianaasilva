@@ -8,9 +8,3 @@ I'm a Software Engineer based in Portugal 🌍
 - 💬 You can reach me through [LinkedIn](https://www.linkedin.com/in/marianascpereira/)
 
 </br>
-
-<div align="center">
-
-  ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianaasilva&show_icons=true&rank_icon=github&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,stars&show=prs_merged_percentage&hide_title=true)
-
-</div>
